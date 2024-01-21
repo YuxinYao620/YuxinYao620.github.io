@@ -30,6 +30,7 @@ Supervised By: Dr. Simon Julier at UCL as final year project
 - Utilized direct image alignment to find the relative transformation between the query image and reference images. Employed the Gauss-Newton method in searching optimized transformations between the feature maps of the query and reference image.
 - Generated dataset with CARLA. Collected the RGB images, depth images, and camera intrinsicand extrinsic. Inferred the pixel-wise depth map from the depth images, and the relative transformation between collected images.
 - Constructed U-Net inferring feature maps and saliency maps of 2D images, extracting important features and masking out moving objects occluding the features.
+- Github: [Unsup_vis_relocal](https://github.com/YuxinYao620/unsup_vis_relocal.git)
 
 <!-- ![Feature map and Saliency map example:](https://raw.githubusercontent.com/YuxinYao620/YuxinYao620.github.io/main/files/unsup.png) -->
 
@@ -49,7 +50,7 @@ Supervised By: Dr. Siyu Tang at ETH Zurich Computer Vision and Learning Group
 
 - Github: [Gamma_with_Egobody](https://github.com/YuxinYao620/Gamma_with_Egobody.git)
 
-    <video src="https://raw.githubusercontent.com/YuxinYao620/YuxinYao620.github.io/main/files/ego.mov" controls="controls" style="max-width: 700px;">
+<video src="https://github.com/YuxinYao620/YuxinYao620.github.io/blob/3bdad6245d13b306a7d943365e8638976922f3c0/files/ego.mov" controls="controls" style="max-width: 700px;">
 </video>
 
 
