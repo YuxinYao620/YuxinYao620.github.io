@@ -33,7 +33,7 @@ Supervised By: Dr. Simon Julier at UCL as final year project
 - Constructed U-Net inferring feature maps and saliency maps of 2D images, extracting important features and masking out moving objects occluding the features.
 
 <!-- ![Feature map and Saliency map example:](https://raw.githubusercontent.com/YuxinYao620/YuxinYao620.github.io/main/files/unsup.png) -->
-- Feature map and Saliency map example:
+- Image and Saliency map example, the saliency map masks the fast moving part:
 ![Feature map and Saliency map example:](/files/unsup.png)
 
 <!-- <img src="./files/unsup.png" width="200" height="100"> -->
@@ -50,14 +50,14 @@ Supervised By: Dr. Siyu Tang at ETH Zurich Computer Vision and Learning Group
 
 <!-- <video src="https://github.com/YuxinYao620/YuxinYao620.github.io/blob/3bdad6245d13b306a7d943365e8638976922f3c0/files/ego.mov" controls="controls" style="max-width: 700px;">
 </video> -->
-- Predicted future 8-9 frames example. 
+- Predicted future 8-9 frames example: 
 ![Predicted future 8-9 frames](/files/ego.gif)
 - Github: [Gamma_with_Egobody](https://github.com/YuxinYao620/Gamma_with_Egobody.git)
 
 
 ---
 
-#### For more previous projects and detailed description, please check my [CV](/files/PhD_CV.pdf)
+### For more previous projects and detailed description, please check my [CV](/files/PhD_CV.pdf)
 ---
 
 
