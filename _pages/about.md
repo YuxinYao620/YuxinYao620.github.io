@@ -17,6 +17,7 @@ My current research focus on computer vision. My research interests includes:
 
 1. Human Pose estimation under heavy occlusion
 2. Human motion generation 
+3. Application of these techniques.
 
 I am currently seeking for collaborations on project in these fields. Please contact me if you are interested. 
 
@@ -25,10 +26,10 @@ I am currently seeking for collaborations on project in these fields. Please con
 
 Supervised By: Dr. Simon Julier at UCL as final year project
 
-- Reconstructed the method in 
+- Implemented the method in 
 [Unsupervised Metric Relocalization Using Transform Consistency Loss](https://arxiv.org/abs/2011.00608)
 - Utilized direct image alignment to find the relative transformation between the query image and reference images. Employed the Gauss-Newton method in searching optimized transformations between the feature maps of the query and reference image.
-- Generated dataset with CARLA. Collected the RGB images, depth images, and camera intrinsicand extrinsic. Inferred the pixel-wise depth map from the depth images, and the relative transformation between collected images.
+- Generated dataset with CARLA for training/testing.
 - Constructed U-Net inferring feature maps and saliency maps of 2D images, extracting important features and masking out moving objects occluding the features.
 
 <!-- ![Feature map and Saliency map example:](https://raw.githubusercontent.com/YuxinYao620/YuxinYao620.github.io/main/files/unsup.png) -->
@@ -47,15 +48,25 @@ Supervised By: Dr. Siyu Tang at ETH Zurich Computer Vision and Learning Group
 - Trained a motion prior of the egocentric dataset EgoBody which recorded the first person perspective video with Holo-lens under social interaction scenario. Predicted the motion for future 8 or 9 frames given the body model of the first 1 or 2 frames.
 - Familarized and used smpl-x and smpl model. Applied AMASS and Egobody dataset to GAMMA model for a body regressor and marker predictor, which uses conditional VAE with DLow method, and GRU.
 
-
-
 <!-- <video src="https://github.com/YuxinYao620/YuxinYao620.github.io/blob/3bdad6245d13b306a7d943365e8638976922f3c0/files/ego.mov" controls="controls" style="max-width: 700px;">
 </video> -->
-- Predicted future 8-9 frames. 
+- Predicted future 8-9 frames example. 
 ![Predicted future 8-9 frames](/files/ego.gif)
 - Github: [Gamma_with_Egobody](https://github.com/YuxinYao620/Gamma_with_Egobody.git)
 
 
 ---
 
-### For more previous projects and detailed description, please check my [CV](/files/PhD_CV.pdf)
+#### For more previous projects and detailed description, please check my [CV](/files/PhD_CV.pdf)
+---
+
+
+## Publication
+- Chen, H., Li, Z., **Yao, Y**. (2022, November). Multi-agent reinforcement learning for fleet
+management: a survey. In 2nd International Conference on Artificial Intelligence, Automation,
+and High-Performance Computing (AIAHPC 2022) (Vol. 12348, pp. 611-624). SPIE.
+
+- Yan, Y., Schaffter, T., Bergquist, T., ...**Yao, Y**..,... DREAM Challenge Consortium. (2021). A
+Continuously Benchmarked and Crowdsourced Challenge for Rapid Development and Evaluation
+of Models to Predict COVID-19 Diagnosis and Hospitalization. JAMA network open, 4(10),
+e2124946-e2124946.
