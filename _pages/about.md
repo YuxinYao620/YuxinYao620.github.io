@@ -33,6 +33,7 @@ Supervised By: Professor Joan Lasenby at Cambridge, collaborated with Christian 
 - Presented this work at the 9th Conference on Applied Geometric Algebras in Computer Science and Engineering (Amsterdam, NL).
 - Protein Structure Prediction Comparison between CGATr and common neural network: 
 ![Predicted protein structure](/files/CGATr-protein.png)
+
 <!-- - Explained and studied the Geometric Algebra Transformer (GATr), and experimented with the effectiveness of each component of the GATr. 
 - Constructed a simplified and flexible equivariant geometric algebra transformer, CGATr, with a generalized signature. Simplified and editted the GATr, removed the contraint in geometric signature which makes it fits all the geometric signatures. 
 - Applied the CGATr to protein structure prediction, N-body dynamics and camera pose estimation, demonstrate strong potential of understanding geometric informaiton and more efficient geometric deep learning. 
