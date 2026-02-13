@@ -60,7 +60,7 @@ I am currently seeking for collaborations on project in these fields. Please con
     <p class="meta"> Bowen Zheng, Ke Chen, Yuxin Yao, Zijiao Zeng, Xinwei Jiang, He Wang, Joan Lasenby, Xiaogang Jin </p>
     <p class="meta"> ACM SIGGRAPH 2025</p>
     <p class="links"> <a href="https://dl.acm.org/doi/10.1145/3721238.3730664">Paper</a> / <a href="https://dl.acm.org/doi/10.1145/3721238.3730664">GitHub</a></p>
-    <p class="tldr"><strong>TLDR:</strong> SmallGS processes a dynamic video with small baseline to obtain the camera poses. It leverages Gaussian splatting to optimize camera poses while mitigating dynamic object interference via predicted semantic masks. It does not rely on 3D alignments or triangulation, alleviating the instability in camera pose estimation caused by limited parallax and weak geometric constraints.</p>
+    <p class="tldr"><strong>TLDR:</strong> AutoKeyFrame presents a novel framework designed to automate human motion generation while retaining precise artistic control. Unlike methods that generate full sequences at once, this approach generates keyframes (critical poses) sequentially based on a user-defined path (root trajectory) and action labels, which are then connected using motion in-betweening methods.</p>
   </div>
 </div>
 
