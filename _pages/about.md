@@ -32,7 +32,7 @@ I am currently seeking for collaborations on project in these fields. Please con
 </style>
 
 <div class="project-pub">
-  <img src="../files/particulatev2.gif" alt="Particulate: Feed-Forward 3D Object Articulation" />
+  <img src="../files/particulatev2.gif" alt="Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control" />
   <div class="body">
     <h3 class="title"><a href="https://instruct-particulate.github.io/">Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control </a></h3>
     <p class="meta"> Ruining Li*, Yuxin Yao*, Matt Zhou, Chuanxia Zheng, Christian Rupprecht, Joan Lasenby, Shangzhe Wu, Andrea Vedaldi </p>
@@ -113,6 +113,12 @@ I am currently seeking for collaborations on project in these fields. Please con
 
 
 ## Publication
+
+- Li, R.*, **Yao, Y.\***, Zhou, M., Zheng, C., Rupprecht, C., Lasenby, J., ... & Vedaldi, A. (2026). Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control. arXiv preprint arXiv:2606.14699.
+
+- Li, R.*, **Yao, Y.\***, Zheng, C., Rupprecht, C., Lasenby, J., Wu, S., & Vedaldi, A. (2026). Particulate: Feed-forward 3d object articulation. CVPR 2026.
+
+- **Yao, Y.**, Zhang, Y., Huang, Z., & Lasenby, J. Smallgs: Gaussian splatting-based camera pose estimation for small-baseline videos. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 4521-4530).
 
 - Hockey, C., **Yao, Y.**, Lasenby, J. Simplifying and Generalising Equivariant Geometric
 Algebra Networks. The 9th conference on Applied Geometric Algebras in Computer Science
